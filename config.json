@@ -1,0 +1,15 @@
+{
+  "token": "",
+  "is_bot": false,
+  "request_delay": 0.4,
+  "clone_settings": {
+    "clone_roles": true,
+    "clone_categories": true,
+    "clone_channels": true,
+    "clone_emojis": true,
+    "clone_server_name": true,
+    "clone_server_icon": true,
+    "clear_target_channels": true,
+    "clear_target_roles": false
+  }
+}
